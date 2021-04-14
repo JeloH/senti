@@ -640,6 +640,106 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Featured Services Section
+--------------------------------*/
+
+#featured-services2 {
+  linear-gradient(0deg, #543546 0%, #242323 50%, #275934 100%);
+}
+
+#featured-services2 .box {
+  padding: 30px 20px;d-#18d26e;
+}
+
+#featured-services2 p {
+  font-size: 12px;
+  line-height: 24px;
+  color:;
+}
+
+
+#feaured-services2 .box-bg {
+  background-image: linear-gradient(0deg, #000000 0%, #242323 50%, #000000 100%);
+}
+
+#featured-services2 .box-bg4 {
+  background-image: linear-gradient(0deg, #543546 0%, #242323 50%, #275934 100%);
+}
+
+
+#featured-services2 i {
+  color: #18d26e;
+  font-size: 48px;
+  display: inline-block;
+  line-height: 1;
+}
+
+#featured-services2 h4 {
+  font-weight: 400;
+  margin: 15px 0;
+  font-size: 18px;
+}
+
+#featured-services2 h4 a {
+  color: #fff;
+}
+
+#featured-services2 h4 a:hover {
+  color: #18d26e;
+}
+
+#featured-services2 p {
+  font-size: 12px;
+  line-height: 24px;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /* About Us Section
 --------------------------------*/
 
