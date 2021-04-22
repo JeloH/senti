@@ -14,7 +14,7 @@ $email_body = "User Name: $name.\n".
 "User Message: $message.\n";
 
 //change here ur email
-$to = "test@gmail.com";
+$to = "hjelovdae@gmail.com";
 
 $headers = "From: $email_from \r\n";
 
