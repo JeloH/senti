@@ -81,6 +81,8 @@ h6 {
     padding-bottom:56.25%;
     position:relative;
     height:0;
+  preload:"none";
+  autostart:"false";
 }
 .video-responsive iframe{
     left:0;
